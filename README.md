@@ -4,6 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/gxmari007/vite-plugin-eslint)](https://github.com/gxmari007/vite-plugin-eslint/blob/master/LICENSE)
 
 ESLint plugin for vite.
+有兴趣的可以先看下这个包是怎么做的 https://github.com/gxmari007/vite-plugin-eslint 后期封装组件和工具都会基于这么一套逻辑来做
 
 ## Install
 
